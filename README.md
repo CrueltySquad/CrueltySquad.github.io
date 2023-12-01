@@ -28,9 +28,10 @@ CrueltySquad is a storage website.
 
 * [RammerHead #1](https://britannica.cf/).
 
-  #### WORD OF THE DAY!
+  #### IMAGE OF THE DAY!
 
-  >pithy
+  >![images](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/6da89187-fed8-426f-8da1-a50c9bf672fa)
+
 
 
 
