@@ -1,9 +1,9 @@
-# CrueltySquad.github.io
+# $${\color{red}CrueltySquad.github.io
 CrueltySquad is a storage website.            
 
 **We store game links, I'll update the more recent game links.**
 
-$${\color{red}[PANIC](https://classroom.google.com/h)
+[PANIC](https://classroom.google.com/h)
 
 > As a wise man once said, snitches belong down under - wise man
 
