@@ -22,7 +22,7 @@ CrueltySquad is a storage website.
 
 ### PROXY LINKS
 
-*[RammerHead 1](https://britannica.cf/).
+*[RammerHead #1](https://britannica.cf/).
 
 
 
