@@ -1,5 +1,5 @@
 # CrueltySquad.github.io
-I just use this for storing github proxies.
+CrueltySquad is a storage website.                                            [PANIC](https://classroom.google.com/h).
 **We store game links, I'll update the more recent game links.**
 
 > As a wise man once said, snitches belong down under - wise man
@@ -24,7 +24,7 @@ I just use this for storing github proxies.
 
 
 _John sucks btw, you know who you are_
-#000000
+
 
 
 
