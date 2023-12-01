@@ -35,7 +35,7 @@ CrueltySquad is a storage website.
 
 
 
-_Alvin sucks btw, you know who you are_
+_Jack sucks btw, you know who you are_
 
 
 
