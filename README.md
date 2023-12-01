@@ -6,14 +6,14 @@ I just use this for storing github proxies.
 ##GAME LINKS
 > [!IMPORTANT]
 > Side note, some of these may not work. Will add new ones in the future. 🪱
-*[GitHub Pages](https://gladihoppers.github.io/).
+*[GladiHoppers, a game about melee combat in a medieval setting. Also includes games](https://gladihoppers.github.io/).
 
-*[GitHub Pages](https://mkgamesdev.github.io/MKGBA2.0/).
+*[MKgamesdev, to my understanding this is a gameboy emulator](https://mkgamesdev.github.io/MKGBA2.0/).
 
-*[GitHub Pages](https://shadowgmes.github.io/).
+*[ShawdowGames,pretty good site for games.](https://shadowgmes.github.io/).
 
 ###PROXY LINKS
-*[GitHub Pages](https://britannica.cf/).
+*[RammerHead 1](https://britannica.cf/).
 
 
 
