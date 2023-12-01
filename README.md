@@ -23,6 +23,9 @@ CrueltySquad is a storage website.
 
 * [CrueltySquad, our own site! WIP at the moment.](https://sites.google.com/student.fcusd.org/crueltysquad/home).
 
+* [Ubg98, okay site. Not the best options but still good.](https://ubg98.github.io/).
+
+
 
 ### PROXY LINKS
 
