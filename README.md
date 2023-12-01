@@ -1,4 +1,4 @@
-# $${\color{red}CrueltySquad.github.io}$$
+**_CrueltySquad.github.io_**
 CrueltySquad is a storage website.         
 
 **We store game links, I'll update the more recent game links.**
