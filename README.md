@@ -30,7 +30,7 @@ CrueltySquad is a storage website.
 
 
 
-_John sucks btw, you know who you are_
+_Alvin sucks btw, you know who you are_
 
 
 
