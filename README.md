@@ -21,8 +21,6 @@ CrueltySquad is a storage website.
 
 *[ShawdowGames,pretty good site for games.](https://shadowgmes.github.io/).
 
-*[ShawdowGames,pretty good site for games.](https://bidoofery.github.io/sm64/).
-
 ### PROXY LINKS
 
 *[RammerHead #1](https://britannica.cf/).
