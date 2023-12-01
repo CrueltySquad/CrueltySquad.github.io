@@ -21,7 +21,7 @@ CrueltySquad is a storage website.
 
 * [ShawdowGames,pretty good site for games.](https://shadowgmes.github.io/).
 
-[CrueltySquad, our own site! WIP at the moment.](https://sites.google.com/student.fcusd.org/crueltysquad/home).
+* [CrueltySquad, our own site! WIP at the moment.](https://sites.google.com/student.fcusd.org/crueltysquad/home).
 
 
 ### PROXY LINKS
