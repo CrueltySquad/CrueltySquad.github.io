@@ -4,7 +4,7 @@ I just use this for storing github proxies.
 
 > As a wise man once said, snitches belong down under - wise man
 
-The background color is `#000000` dark mode
+![Screenshot 2023-10-16 10 46 14 AM](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/0ef7c3bf-4972-4734-a247-a3345f623bbc)
 
 
 ## GAME LINKS
