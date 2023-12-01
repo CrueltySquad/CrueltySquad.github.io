@@ -1,4 +1,4 @@
-# _![](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/8d133380-a726-45f3-a0cf-56e29e9ff2ee)
+# ![](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/8d133380-a726-45f3-a0cf-56e29e9ff2ee)
 
 CrueltySquad is a storage website.         
 
