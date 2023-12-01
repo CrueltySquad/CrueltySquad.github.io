@@ -31,6 +31,8 @@ CrueltySquad is a storage website.
 
 * [RammerHead #1](https://britannica.cf/).
 
+* [RammerHead #2](https://absolutevalueequations.cf/).
+
   #### IMAGE OF THE DAY!
 
   >![images](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/6da89187-fed8-426f-8da1-a50c9bf672fa)
