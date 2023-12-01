@@ -3,7 +3,7 @@ CrueltySquad is a storage website.
 
 **We store game links, I'll update the more recent game links.**
 
-red">PANIC</[PANIC](https://classroom.google.com/h).>
+code style="color : red">PANIC</[PANIC](https://classroom.google.com/h).>
 
 > As a wise man once said, snitches belong down under - wise man
 
