@@ -1,5 +1,5 @@
-# $${\color{red}CrueltySquad.github.io
-CrueltySquad is a storage website.            
+# $${\color{red}CrueltySquad.github.io}$$
+CrueltySquad is a storage website.         
 
 **We store game links, I'll update the more recent game links.**
 
