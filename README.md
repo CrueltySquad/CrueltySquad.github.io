@@ -28,6 +28,10 @@ CrueltySquad is a storage website.
 
 * [RammerHead #1](https://britannica.cf/).
 
+  #### WORD OF THE DAY!
+
+  >pithy
+
 
 
 _Alvin sucks btw, you know who you are_
