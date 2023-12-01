@@ -15,11 +15,11 @@ CrueltySquad is a storage website.
 > [!IMPORTANT]
 > Side note, some of these may not work. Will add new ones in the future. 🪱
 
-*[GladiHoppers, a game about melee combat in a medieval setting. Also includes games](https://gladihoppers.github.io/).
+* [GladiHoppers, a game about melee combat in a medieval setting. Also includes games](https://gladihoppers.github.io/).
 
-*[MKgamesdev, to my understanding this is a gameboy emulator](https://mkgamesdev.github.io/MKGBA2.0/).
+* [MKgamesdev, to my understanding this is a gameboy emulator](https://mkgamesdev.github.io/MKGBA2.0/).
 
-*[ShawdowGames,pretty good site for games.](https://shadowgmes.github.io/).
+* [ShawdowGames,pretty good site for games.](https://shadowgmes.github.io/).
 
 ### PROXY LINKS
 
