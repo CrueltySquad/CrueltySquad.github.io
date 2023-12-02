@@ -29,7 +29,7 @@ CrueltySquad is a storage website.
 
 * [Jordansmathwork, good site. Includes an about blank feature.](https://galacticnetwork.github.io/jordansmathwork/gs/).
 
-* [Imagejptr, REALLY GOOD SITE. This is an emulator site, it includes many consoles with many games! Visist this site](https://imadejptr.github.io/).
+* [Imagejptr, REALLY GOOD SITE. This is an emulator site, it includes many consoles with many games! Visit this site](https://imadejptr.github.io/).
 
 
 
