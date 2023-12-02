@@ -25,6 +25,13 @@ CrueltySquad is a storage website.
 
 * [Ubg98, okay site. Not the best options but still good.](https://ubg98.github.io/).
 
+* [CookieDuck, Pretty good site. Doesn't lag, and has some good games.](https://cookieduck-dev.github.io/).
+
+* [Jordansmathwork, good site. Includes an about blank feature.](https://galacticnetwork.github.io/jordansmathwork/gs/).
+
+* [Imagejptr, REALLY GOOD SITE. This is an emulator site, it includes many consoles with many games! Visist this site](https://imadejptr.github.io/).
+
+
 
 
 ### PROXY LINKS
@@ -32,6 +39,26 @@ CrueltySquad is a storage website.
 * [RammerHead #1](https://britannica.cf/).
 
 * [RammerHead #2](https://absolutevalueequations.cf/).
+
+*  [RammerHead #3]( https://joyridearoundthepark.5inas.cf/).
+
+*  [RammerHead #4](https://oh-hell-nah.5inas.cf/).
+
+*  [RammerHead #5](https://mathtestaxamschool.zcvx.cf/).
+
+*  [RammerHead #6](https://reading.englishpapers.online/).
+
+*  [RammerHead #7](https://pixel.7.zixel.tk/).
+
+*  [RammerHead #8](https://rammer.rude.li/).
+
+*  [RammerHead #9](https://slape3.zwanenwater48.nl/).
+
+*  [RammerHead #10](https://saltersforeheadhasa.shinylook.ro/).
+
+*  [RammerHead #11](https://walterwhite.dcmusic.ca/).
+
+
 
   #### IMAGE OF THE DAY!
 
