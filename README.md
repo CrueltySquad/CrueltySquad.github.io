@@ -27,7 +27,7 @@ CrueltySquad is a storage website.
 
 * [CookieDuck, Pretty good site. Doesn't lag, and has some good games.](https://cookieduck-dev.github.io/).
 
-* [Jordansmathwork, good site. Includes an about blank feature.](https://galacticnetwork.github.io/jordansmathwork/gs/).
+* [Jordansmathwork, good site. Includes an about blank feature.](https://galacticnetwork.github.io/jordansmathwork/).
 
 * [Imagejptr, REALLY GOOD SITE. This is an emulator site, it includes many consoles with many games! Visit this site](https://imadejptr.github.io/).
 
