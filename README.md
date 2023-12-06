@@ -62,7 +62,7 @@ CrueltySquad is a storage website.
 
    *IMAGE OF THE DAY!*
 
-  >![download](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/354c9e0a-1232-4922-9f9c-97a8791bc094)
+  >![images](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/50b38abb-f9a6-4a4d-93bb-b0bd1ec1b8bf)
 
 
 
