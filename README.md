@@ -10,7 +10,6 @@ CrueltySquad is a storage website.
 
 ![Screenshot 2023-10-16 10 46 14 AM](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/0ef7c3bf-4972-4734-a247-a3345f623bbc)
 
-![images](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/de3ddd9a-4504-42dc-9747-a573cd7396b2)
 
 ## GAME LINKS
 > [!IMPORTANT]
