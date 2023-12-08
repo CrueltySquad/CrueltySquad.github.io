@@ -1,6 +1,7 @@
 # ![](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/8d133380-a726-45f3-a0cf-56e29e9ff2ee)
 
-CrueltySquad is a storage website.         
+CrueltySquad is a storage website.                                                                ![images](https://github.com/CrueltySquad/CrueltySquad.github.io/assets/152569790/71f8d269-95e5-4656-b073-427de5ac7380)
+                   
 
 **We store game links, I'll update the more recent game links.**
 
